@@ -1,0 +1,21 @@
+Start: Tue, 3 Feb 2015 11:42:12
+End: Tue, 3 Feb 2015 1:11:19
+Tasks: Started the multtable.php portion of the assignment
+
+Start: Wed, 4 Feb 2015 20:12:52
+End: Wed, 4 Feb 2015 21:11:19
+Tasks: Finished working out the kinks of the table generation
+
+Start: Thur, 5 Feb 2015 10:04:18
+End: Thur, 5 Feb 2015 14:06:19
+Tasks: Started and finished the loopback.php portion
+
+Start: Fri, 6 Feb 2015 15:12:58
+End: Fri, 6 Feb 2015 16:17:39
+Tasks: Started the login.php portion
+
+Start: Sat, 7 Feb 2015 11:02:36
+End: Sat, 7 Feb 2015 13:11:59
+Tasks: Worked on and finished the login.php portion
+
+
